@@ -1,0 +1,7 @@
+# Survey Prank - dependencies
+# This project only uses the Python standard library (tkinter, random),
+# so there is nothing to install with pip.
+#
+# Tkinter ships with the official Python installers (Windows / macOS).
+# On Debian / Ubuntu, install it with:
+#   sudo apt install python3-tk
